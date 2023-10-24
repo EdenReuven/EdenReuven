@@ -6,6 +6,8 @@ Full Stack Developer
 
 Full Stack developer with B.Sc. in Computer Science
 
+<img align="right" alt="Coding" width="300" src="https://github.com/EdenReuven/EdenReuven/blob/main/code.gif">
+
 ### Skills
 
 
