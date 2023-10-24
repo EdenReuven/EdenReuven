@@ -1,13 +1,10 @@
-Hi 👋 My name is Eden
+Hello World👋 My name is Eden
 =====================
 
 Full Stack Developer
 --------------------
 
 Full Stack developer with B.Sc. in Computer Science
-
-* ✉️  You can contact me at [edenreuven14@gmail.com](mailto:edenreuven14@gmail.com)
-* 🚀  I'm currently working on [Msa](http://a)
 
 ### Skills
 
